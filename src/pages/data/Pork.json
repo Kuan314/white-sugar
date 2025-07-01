@@ -171,5 +171,23 @@
         "available": false
       }
     ]
+  },
+  {
+    "selectInfo": "排骨",
+    "selectInfoEnglish": "Pork Rib",
+    "price": 20,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 20,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 40,
+        "available": true
+      }
+    ]
   }
 ]
