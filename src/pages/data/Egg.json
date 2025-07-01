@@ -140,12 +140,12 @@
   {
     "selectInfo": "蒸蛋",
     "selectInfoEnglish": "Steamed Egg",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
+        "price": 9,
         "available": true
       },
       {
