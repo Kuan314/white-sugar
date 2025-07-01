@@ -184,12 +184,12 @@
   {
     "selectInfo": "淋饭",
     "selectInfoEnglish": "Braised Rice",
-    "price": 6,
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 6,
+        "price": 7,
         "available": true
       }
     ]
