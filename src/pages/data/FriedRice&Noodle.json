@@ -48,22 +48,22 @@
   {
     "selectInfo": "咸鱼炒饭",
     "selectInfoEnglish": "Salted Fish Fried Rice",
-    "price": 8,
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
-        "price": 8,
+        "price": 7,
         "available": true
       },
       {
         "selectInfo": "二人份 Two",
-        "price": 16,
+        "price": 14,
         "available": true
       },
       {
         "selectInfo": "三人份 Three",
-        "price": 24,
+        "price": 21,
         "available": true
       }
     ]
