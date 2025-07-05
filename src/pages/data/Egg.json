@@ -11,11 +11,6 @@
         "available": true
       },
       {
-        "selectInfo": "中 Medium",
-        "price": 12,
-        "available": true
-      },
-      {
         "selectInfo": "大 Big",
         "price": 14,
         "available": true
@@ -31,11 +26,6 @@
       {
         "selectInfo": "小 Small",
         "price": 10,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 12,
         "available": true
       },
       {
@@ -57,11 +47,6 @@
         "available": true
       },
       {
-        "selectInfo": "中 Medium",
-        "price": 12,
-        "available": true
-      },
-      {
         "selectInfo": "大 Big",
         "price": 14,
         "available": true
@@ -77,11 +62,6 @@
       {
         "selectInfo": "小 Small",
         "price": 10,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 12,
         "available": true
       },
       {
@@ -103,11 +83,6 @@
         "available": true
       },
       {
-        "selectInfo": "中 Medium",
-        "price": 10,
-        "available": true
-      },
-      {
         "selectInfo": "大 Big",
         "price": 12,
         "available": true
@@ -123,11 +98,6 @@
       {
         "selectInfo": "小 Small",
         "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 10,
         "available": true
       },
       {
