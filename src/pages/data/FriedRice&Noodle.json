@@ -163,22 +163,22 @@
   {
     "selectInfo": "沙煲面",
     "selectInfoEnglish": "Claypot Noodle",
-    "price": 8.50,
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
-        "price": 8.50,
+        "price": 8,
         "available": true
       },
       {
         "selectInfo": "二人份 Two",
-        "price": 17,
+        "price": 16,
         "available": true
       },
       {
         "selectInfo": "三人份 Three",
-        "price": 25,
+        "price": 24,
         "available": true
       }
     ]
