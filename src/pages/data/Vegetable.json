@@ -440,8 +440,8 @@
   {
     "name": "青龙菜",
     "nameEnglish": "",
-    "price": 9,
-    "available": false,
+    "price": 10,
+    "available": true,
     "SelectInfo": {
       "methods": [
         {
@@ -452,7 +452,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 9,
+          "price": 10,
           "available": true
         },
         {
@@ -460,7 +460,7 @@
           "price": 12,
           "available": true
         },
-      {
+        {
           "selectInfo": "大 Big",
           "price": 16,
           "available": true
