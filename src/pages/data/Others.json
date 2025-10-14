@@ -2,12 +2,12 @@
   {
     "selectInfo": "佛砵（罗汉斋）",
     "selectInfoEnglish": "Yam Ring with Vegetable",
-    "price": 22,
-    "available": false,
+    "price": 24,
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 22,
+        "price": 24,
         "available": true
       }
     ]
@@ -15,12 +15,12 @@
   {
     "selectInfo": "佛砵（咕咾肉）",
     "selectInfoEnglish": "Yam Ring with Sweet Sour Pork",
-    "price": 25,
-    "available": false,
+    "price": 26,
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 25,
+        "price": 26,
         "available": true
       }
     ]
@@ -28,12 +28,12 @@
   {
     "selectInfo": "佛砵（排骨王）",
     "selectInfoEnglish": "Yam Ring with Pork Rib King",
-    "price": 25,
-    "available": false,
+    "price": 26,
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 25,
+        "price": 26,
         "available": true
       }
     ]
@@ -41,12 +41,12 @@
   {
     "selectInfo": "佛砵（虾姑肉）",
     "selectInfoEnglish": "Yam Ring with Mantis Prawn",
-    "price": 25,
-    "available": false,
+    "price": 26,
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 25,
+        "price": 26,
         "available": true
       }
     ]
