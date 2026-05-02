@@ -2,17 +2,17 @@
   {
     "selectInfo": "宫保田鸡",
     "selectInfoEnglish": "Dry Chili Frog",
-    "price": 25,
+    "price": 30,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小",
-        "price": 25,
+        "price": 30,
         "available": true
       },
       {
         "selectInfo": "大",
-        "price": 40,
+        "price": 50,
         "available": true
       }
     ]
@@ -20,17 +20,17 @@
   {
     "selectInfo": "姜葱田鸡",
     "selectInfoEnglish": "Ginger Onion Frog",
-    "price": 25,
+    "price": 30,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小",
-        "price": 25,
+        "price": 30,
         "available": true
       },
       {
         "selectInfo": "大",
-        "price": 40,
+        "price": 50,
         "available": true
       }
     ]
